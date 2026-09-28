@@ -1,0 +1,15 @@
+# ROS2 / colcon build files
+build/
+install/
+log/
+
+# VS Code local settings
+.vscode/
+
+# Runtime logs
+*.log
+
+# Temporary / backup files
+*~
+*.swp
+*.tmp

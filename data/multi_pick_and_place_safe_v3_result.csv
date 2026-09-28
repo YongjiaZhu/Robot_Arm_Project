@@ -1,0 +1,4 @@
+task,color,obstacle,direct_fraction_percent,approach_fraction_percent,lift_fraction_percent,transfer_planner,transfer_path_rad,transfer_error_m,place_fraction_percent,retreat_fraction_percent,placement_error_m,task_time_s,success
+Task-1,RED,0,-1,100,100,RRT*,1.15899,5.3485e-05,100,100,6.39521e-05,108.778,1
+Task-2,GREEN,1,6.19469,100,100,RRTConnect,2.48742,8.3777e-05,100,100,0.000163874,137.725,1
+Task-3,BLUE,1,5.30973,100,100,RRTConnect,3.34201,6.95797e-05,100,100,0.000134899,145.382,1

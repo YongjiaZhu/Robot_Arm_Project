@@ -1,0 +1,4 @@
+task,color,obstacle_required,obstacle_calibrated,direct_fraction_percent,approach_fraction_percent,lift_fraction_percent,transfer_planner,transfer_error_m,place_fraction_percent,placement_error_m,total_time_s,success
+Task-1,RED,0,1,100,100,100,RRTConnect,7.86124e-05,100,0.000118202,43.7689,1
+Task-2,GREEN,1,1,11.1111,100,100,RRTConnect,4.8783e-05,100,0.0025571,52.3793,1
+Task-3,BLUE,1,1,9.58904,100,100,RRTConnect,8.32079e-05,100,0.000127247,68.7349,1

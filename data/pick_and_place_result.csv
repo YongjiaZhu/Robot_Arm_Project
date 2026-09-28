@@ -1,0 +1,15 @@
+phase,method,time_s,metric_name,metric,success
+Gripper Open,GripperAction,0.05374,position(m),0.04,1
+Safe Home,RRTConnect,0,joint_error(rad),0.000932484,1
+Pre-Grasp,RRTConnect,10.5809,position_error(m),7.46671e-05,1
+Approach Down,Cartesian,4.36012,fraction(%),100,1
+Gripper Close,GripperAction,0.0551674,position(m),0,1
+Attach Object,PlanningScene,0.00129072,attached,1,1
+Lift Object,Cartesian,4.61154,fraction(%),100,1
+Transfer,RRTConnect,5.3899,position_error(m),7.92324e-05,1
+Place Descend,Cartesian,4.9296,fraction(%),100,1
+Gripper Open,GripperAction,0.0535627,position(m),0.04,1
+Detach Object,PlanningScene,0.000518295,detached,1,1
+Retreat,Cartesian,4.36315,fraction(%),100,1
+Return Home,RRTConnect,8.30024,joint_error(rad),0.000935434,1
+FINAL,PickPlace,0,placement_error_m,0.000104624,1

@@ -1,0 +1,2 @@
+scene,nominal_ratio,actual_ratio,offset_m,direction,obstacle_x,obstacle_y,obstacle_z,planner,search_time_s,path_length_rad,stretch,execution_time_s,joint_error_rad,success
+OBSTACLE-1,0.4,0.4,0.036,+N1,-0.171985,-0.398883,0.812723,RRTstar,26.7853,4.35846,1.05889,29.9862,0.00093668,1

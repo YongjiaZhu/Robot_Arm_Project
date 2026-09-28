@@ -1,0 +1,2 @@
+pattern,segment_distance_m,total_path_m,fraction,eef_step_m,velocity_scale,acceleration_scale,execution_time_s,position_error_m,moveit_feedback,success
+"Z_DOWN -> +X -> Z_UP",0.15,0.45,1,0.005,0.08,0.03,17.5263,1.53931e-09,1,1

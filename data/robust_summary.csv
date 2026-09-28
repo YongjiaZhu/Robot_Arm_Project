@@ -1,0 +1,7 @@
+id,scene,offset_m,success_count,success_rate,mean_time,std_time,mean_path,best_path,stretch,execute,joint_error
+0,BASELINE,0,5,100,0.0228699,0.0091278,0.47805,0.477953,1,1,8.11051e-05
+1,EASY-1,0.3,0,0,0,0,0,0,0,0,0
+2,EASY-2,0.24,0,0,0,0,0,0,0,0,0
+3,MEDIUM,0.18,0,0,0,0,0,0,0,0,0
+4,HARD-1,0.12,0,0,0,0,0,0,0,0,0
+5,HARD-2,0.07,0,0,0,0,0,0,0,0,0

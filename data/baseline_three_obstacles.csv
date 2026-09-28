@@ -1,0 +1,1 @@
+scene,baseline_position,local_offset_m,direction,obstacle_x,obstacle_y,obstacle_z,planner,search_time_s,path_length_rad,stretch,execution_time_s,final_joint_error_rad,success

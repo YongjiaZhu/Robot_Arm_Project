@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package format="3">
+  <name>arm_control</name>
+  <version>0.0.1</version>
+  <description>
+    ROS2 MoveIt2 Panda robot arm motion planning and obstacle avoidance benchmark
+  </description>
+  <maintainer email="yj@example.com">
+    yj
+  </maintainer>
+  <license>
+    Apache-2.0
+  </license>
+  <buildtool_depend>
+    ament_cmake
+  </buildtool_depend>
+  <depend>
+    rclcpp
+  </depend>
+  <depend>
+    geometry_msgs
+  </depend>
+  <depend>
+    moveit_core
+  </depend>
+  <depend>
+    moveit_ros_planning_interface
+  </depend>
+  <depend>
+    moveit_msgs
+  </depend>
+  <depend>
+    shape_msgs
+  </depend>
+  <export>
+    <build_type>
+      ament_cmake
+    </build_type>
+  </export>
+  <depend>rclcpp_action</depend>
+  <depend>control_msgs</depend>
+  <depend>std_msgs</depend>
+</package>

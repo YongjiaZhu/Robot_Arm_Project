@@ -1,0 +1,3 @@
+scene,path_ratio,local_offset_m,direction,obstacle_x,obstacle_y,obstacle_z,planner,search_time_s,path_length_rad,stretch,execution_time_s,joint_error_rad,success
+OBSTACLE-2,0.55,0.012,-X,-0.393858,-0.476569,0.694987,RRTConnect,20.1908,4.60436,1.11873,24.1772,0.000923576,1
+OBSTACLE-3,0.8,0.003,-Y,-0.663529,-0.357499,0.401135,RRTstar,23.1447,4.25607,1.03411,22.7997,0.000728523,1
